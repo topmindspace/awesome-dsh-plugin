@@ -1,0 +1,6 @@
+url: https://github.com/topmindspace/dsh-super-kanban
+name: topmindspace/dsh-super-kanban
+category: ui
+description:
+  en: Uses AI to organize DeepSeek Harness sessions into a kanban board for tasks and projects, with live status, acceptance review, and full-page, sidebar, and floating views.
+  zh: 用 AI 整理 DeepSeek Harness 会话中的任务与项目，通过看板跟踪实时状态并完成验收，支持全局、侧栏和悬浮视图。
